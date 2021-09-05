@@ -26,9 +26,8 @@ class Hw1Q2():
         return print("\nFor the polynomial sqrt(%dx + 2*%d) = %d, x = %d\n" % (self.a, self.b, self.c, x))
 
 
-
 if __name__ == '__main__':
-    xMono = HW1Q2()
-    HW1Q2.monomial(xMono)
-    xPoly = HW1Q2()
-    HW1Q2.polynomial(xPoly)
+    xMono = Hw1Q2()
+    Hw1Q2.monomial(xMono)
+    xPoly = Hw1Q2()
+    Hw1Q2.polynomial(xPoly)

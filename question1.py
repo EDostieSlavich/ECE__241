@@ -41,6 +41,6 @@ class Hw1Q1():
 
 
 if __name__ == '__main__':
-    time = HW1Q1()
-    hundredThousand = HW1Q1.timeConvert(time, 100000)
-    hundred = HW1Q1.timeConvert(time, 100)
+    time = Hw1Q1()
+    Hw1Q1.timeConvert(time, 100000)
+    Hw1Q1.timeConvert(time, 100)
