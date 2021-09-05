@@ -1,4 +1,4 @@
-class HW1Q2():
+class Hw1Q2():
     """Attributes are coeffients for a monomial or polynomial"""
     def __init__(self, a=None, b=None, c=None):
         self.a = a

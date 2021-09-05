@@ -1,4 +1,4 @@
-class HW1Q1():
+class Hw1Q1():
     """Attributes of class are in terms of seconds. Method converts seconds new format"""
 
     def __init__(self):
